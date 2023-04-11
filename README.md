@@ -2,16 +2,6 @@
 
 <img width="1439" alt="Screenshot 2023-04-10 at 20 13 53" src="https://user-images.githubusercontent.com/60285814/230908656-3b6cd4e5-25cf-4ad5-abd1-1986f839d636.png">
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 ## Overview
 
 ### Links
